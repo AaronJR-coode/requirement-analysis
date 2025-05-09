@@ -19,7 +19,9 @@ this helps to know the stackholders needs from the app
       DB
       CDN
 2. non-funtional requirements
-     messaging
+     Scalability
+     Security
+     Testing
 # Use Case Diagrams.
  use case diagram are used to detail your system user's and their interactions with the system.
    - Modeling the basic flow of events in a use case
