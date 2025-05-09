@@ -24,3 +24,6 @@ this helps to know the stackholders needs from the app
  use case diagram are used to detail your system user's and their interactions with the system.
    - Modeling the basic flow of events in a use case
    - https://github.com/AaronJR-coode/requirement-analysis/blob/main/alx-booking-uc.png?raw=true
+# Acceptance Criteria.
+bridging the gap between users needs
+ensuring everyone is on the same page
