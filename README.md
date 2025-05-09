@@ -13,3 +13,10 @@ this helps to know the stackholders needs from the app
  . Requirement Documentation
  . Requirement Analysis and Modeling
  . Requirement Validation.
+# types of requiments 
+  functional requiments
+      API
+      DB
+      CDN
+  non-funtional requiments
+  
