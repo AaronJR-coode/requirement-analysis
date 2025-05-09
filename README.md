@@ -8,8 +8,8 @@ this helps to know the stackholders needs from the app
 2. to meet users needs
 3. helps to save resources
 # Key Activities in Requirement Analysis.
- Requirement Gathering
- Requirement Elicitation
- Requirement Documentation
- Requirement Analysis and Modeling
- Requirement Validation.
+ . Requirement Gathering
+ . Requirement Elicitation
+ . Requirement Documentation
+ . Requirement Analysis and Modeling
+ . Requirement Validation.
