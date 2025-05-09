@@ -23,4 +23,4 @@ this helps to know the stackholders needs from the app
 # Use Case Diagrams.
  use case diagram are used to detail your system user's and their interactions with the system.
    - Modeling the basic flow of events in a use case
-   alx-booking-uc.png......https://drive.google.com/file/d/1jK4k657EcrRUbKRg5B1GMr4o8LEosew0/view?usp=drive_link
+   - https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#G1jK4k657EcrRUbKRg5B1GMr4o8LEosew0
