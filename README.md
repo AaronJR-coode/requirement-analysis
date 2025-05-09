@@ -20,3 +20,7 @@ this helps to know the stackholders needs from the app
       CDN
 2. non-funtional requirements
      messaging
+# Use Case Diagrams.
+ use case diagram are used to detail your system user's and their interactions with the system.
+   - Modeling the basic flow of events in a use case
+   https://drive.google.com/file/d/1jK4k657EcrRUbKRg5B1GMr4o8LEosew0/view?usp=drive_link
