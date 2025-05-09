@@ -14,9 +14,9 @@ this helps to know the stackholders needs from the app
  . Requirement Analysis and Modeling
  . Requirement Validation.
 # types of requiments 
-  functional requiments
+  1. functional requiments
       API
       DB
       CDN
-  non-funtional requiments
+2. non-funtional requiments
   
